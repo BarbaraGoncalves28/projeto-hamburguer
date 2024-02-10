@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+
+#form{
+    display: flexbox;
+}
+
+.v{
+   text-align: right;
+   margin-top: -505px;
+
+}
+
+img{
+    position: absolute;
+    top: 10px;
+    width: 410px;
+    
+}
+
+input{
+    height: 40px;
+    width: 300px;
+    border-radius: 3px;
+    outline-color: white;
+    padding-left: 10px;
+    border: none;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+    gap: 20px;
+    align-items: center;
+    margin-top: 150px;
+    border: none; 
+}
+
+#b{
+    background-color: red;
+    width: 200px;
+}
+

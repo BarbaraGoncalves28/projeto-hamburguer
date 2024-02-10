@@ -1,0 +1,347 @@
+body {
+    background-color: black;
+    overflow-x: hidden;
+}
+
+img{
+    position: absolute;
+    top: 0;
+    border: none transparent;
+    text-align: center;
+    width: 80%;
+    left: 100px;
+    z-index: -1;    
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 750px;
+    color: black;
+    text-decoration: underline red;
+    font-size: 20pt;
+}
+
+.faixa{
+    background-color: white;
+    height: 1700px;
+    margin-top: -78px;
+}
+
+#b1{
+    position: absolute;
+    margin-top: -1685px;
+    left: 350px;
+    width: 150px;
+    height: 40px;
+    background-color: #ffdb58;
+    border: none;
+    border: 1px solid;
+    box-shadow: 2px 3px 2px;
+    cursor: pointer;
+    z-index: 1;
+    border-radius: 6px;
+}
+#b2{
+    position: absolute;
+    margin-top: -1685px;
+    width: 150px;
+    height: 40px;
+    left: 600px;
+    background-color: #ffdb58;
+    border: none;
+    border: 1px solid;
+    box-shadow: 2px 3px 2px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+#b3{
+    position: absolute;
+    margin-top: -1685px;
+    left: 850px;
+    width: 150px;
+    height: 40px;
+    background-color: #ffdb58;
+    border: none;
+    border: 1px solid;
+    box-shadow: 2px 3px 2px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.hamb1{
+    height: 210px;
+    width: 290px;
+    margin-top: 935px;
+    left: 35px;
+    z-index: 1;
+}
+.hamb2{
+    height: 210px;
+    width: 290px;
+    margin-top: 1180px;
+    left: 35px;
+    z-index: 1;
+}
+
+.hamb3{
+    height: 400px;
+    width: 290px;
+    margin-top: 1910px;
+    left: 35px;
+    z-index: 1;
+}
+
+.hamb4{
+    height: 210px;
+    width: 290px;
+    margin-top: 1430px;
+    left: 35px;
+    z-index: 1;
+}
+
+.hamb5{
+    height: 210px;
+    width: 290px;
+    margin-top: 1670px;
+    left: 35px;
+    z-index: 1;
+}
+
+.nome{
+    top: 0%;
+    position: absolute;
+    margin-top: 70px;
+    color: red;
+    text-decoration: none;
+    left: 170px;
+    font-size: 120pt;
+    font-family:"Monster";                                                                          
+}
+
+#b4{
+    top: 0%;
+    position: absolute;
+    margin-top: 250px;
+    left: 200px;
+    width: 140px;
+    height: 40px;
+    background-color: #ffdb58;
+    border: none;
+    border-radius: 15px;
+    border: 1px solid;
+    box-shadow: 2px 2px 2px;
+    cursor: pointer;
+}
+
+#b5{
+    top: 0%;
+    position: absolute;
+    margin-top: 250px;
+    left: 350px;
+    width: 160px;
+    height: 40px;
+    background-color: #ffdb58;
+    border: none;
+    border-radius: 15px;
+    border: 1px solid;
+    box-shadow: 2px 2px 2px;
+    cursor: pointer;
+}
+
+.faixa2{
+    background-color: black;
+    height: 150px;
+    margin-top: -78px;
+}
+
+ul{
+    position: absolute;
+    margin-top: -125px;
+    font-size: 20pt;
+    left: 550px;
+}
+
+.d1{
+    position: absolute;
+    top: 0%;
+    margin-top: 945px;
+    left: 350px;
+    z-index: 1;
+    font-family: 'The Monster', sans-serif;
+    color: #ff0000;
+    text-decoration: underline #ff0000;
+                                                
+}
+
+.p1{
+    position: absolute;
+    top: 0%;
+    font-size: 13pt;
+    margin-top: 980px;
+    left: 350px;
+    z-index: 1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.d2{
+    position: absolute;
+    top: 0%;
+    margin-top: 1190px;
+    left: 350px;
+    z-index: 1;
+    font-family: 'The Monster', sans-serif;
+    color: #ff0000;
+    text-decoration: underline #ff0000;
+                                                
+}
+.p2{
+    position: absolute;
+    top: 0%;
+    font-size: 13pt;
+    margin-top: 1230px;
+    left: 350px;
+    z-index: 1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.d3{
+    position: absolute;
+    top: 0%;
+    margin-top: 1440px;
+    left: 350px;
+    z-index: 1;
+    font-family: 'The Monster', sans-serif;
+    color: #ff0000;
+    text-decoration: underline #ff0000;
+                                                
+}
+
+.p3{
+    position: absolute;
+    top: 0%;
+    font-size: 13pt;
+    margin-top: 1480px;
+    left: 350px;
+    z-index: 1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.d4{
+    position: absolute;
+    top: 0%;
+    margin-top: 1690px;
+    left: 350px;
+    z-index: 1;
+    font-family: 'The Monster', sans-serif;
+    color: #ff0000;
+    text-decoration: underline #ff0000;
+                                                
+}
+
+.p4{
+    position: absolute;
+    top: 0%;
+    font-size: 13pt;
+    margin-top: 1730px;
+    left: 350px;
+    z-index: 1;
+    font-family: 'Courier New', Courier, monospace;
+}
+.d5{
+    position: absolute;
+    top: 0%;
+    margin-top: 1930px;
+    left: 350px;
+    z-index: 1;
+    font-family: 'The Monster', sans-serif;
+    color: #ff0000;
+    text-decoration: underline #ff0000;
+                                                
+}
+.p5{
+    position: absolute;
+    top: 0%;
+    font-size: 13pt;
+    margin-top: 1970px;
+    left: 350px;
+    z-index: 1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#b6{
+    position: absolute;
+    top: 0%;
+    margin-top: 1070px;
+    left: 350px;
+    z-index: 1;
+    border: none;
+    background-color: #ff6961;
+    border: 1px solid;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px;
+    cursor: pointer;
+}
+#b7{
+    position: absolute;
+    top: 0%;
+    margin-top: 1320px;
+    left: 350px;
+    z-index: 1;
+    border: none;
+    background-color: #ff6961;
+    border: 1px solid;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px;
+    cursor: pointer;
+}
+#b8{
+    position: absolute;
+    top: 0%;
+    margin-top: 1570px;
+    left: 350px;
+    z-index: 1;
+    border: none;
+    background-color: #ff6961;
+    border: 1px solid;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px;
+    cursor: pointer;
+}
+
+#b9{
+    position: absolute;
+    top: 0%;
+    margin-top: 1810px;
+    left: 350px;
+    z-index: 1;
+    border: none;
+    background-color: #ff6961;
+    border: 1px solid;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px;
+    cursor: pointer;
+}
+
+#b10{
+    position: absolute;
+    top: 0%;
+    margin-top: 2070px;
+    left: 350px;
+    z-index: 1;
+    border: none;
+    background-color: #ff6961;
+    border: 1px solid;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px;
+    cursor: pointer;
+}
