@@ -6,3 +6,5 @@
 <p>- HTML</p>
 <p>- CSS</p>
 <p>- JavaScript</p></h2>
+
+<img src="https://github.com/BarbaraGoncalves28/projeto-hamburguer/blob/main/imagens/monster-print.png?raw=true"/>
